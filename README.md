@@ -1,2 +1,6 @@
-# PF-Algo1
-Proyecto final de Algorítmica 1
+# Proyecto Final Algoritmiva I
+
+Integrantes:
+Angela Encarnación Cuba Chuquimia
+Alexia Marín 
+Mish
