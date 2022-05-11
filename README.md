@@ -1,5 +1,5 @@
-@@ -1,57 +1,57 @@
-# Proyecto Final Algorítmica I (CoDyMe_HospitalSearcher-Dijkstra)
+
+# Proyecto Final Algorítmica I 
 ## Integrantes del grupo:
 - Angela Encarnación Cuba Chuquimia
 - Alexia Marín 
