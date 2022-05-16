@@ -1,5 +1,5 @@
 
-# Proyecto Final Algorítmica I 
+# Proyecto Final Algorítmica I  "Unos Pesitos"
 ## Integrantes del grupo:
 - Angela Encarnación Cuba Chuquimia
 - Alexia Marín 
