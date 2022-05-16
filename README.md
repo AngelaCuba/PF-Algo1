@@ -30,7 +30,8 @@
  - Se nos mostrará la carpeta del repositorio copiado y se nos ofrecerá la posibilidad de abrir la carpeta del repositorio copiado. Hacemos click en “Abrir repositorio”
  - Visual Studio Code abrirá la carpeta del repositorio copiado mostrando su contenido.
 
-##  Explicacion del Algoritmo Usado:
+##  Explicacion del Algoritmo :
+El problema de cambio de monedas aborda la forma de encontrar el número mínimo de monedas tales que entre ellas suman una cierta cantidad. Es un tipo de problema de la mochila, y tiene aplicaciones que exceden el ámbito específico de la circulación de dinero.
 ##  Conclusiones
 En conclusión, creemos que este proyecto será de ayuda a la sociedad por que 
 aunque suena un poco simple abarca problemas cotidianos que afectan a 
