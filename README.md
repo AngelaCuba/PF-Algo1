@@ -32,6 +32,7 @@
 
 ##  Explicacion del Algoritmo :
 El problema de cambio de monedas aborda la forma de encontrar el número mínimo de monedas tales que entre ellas suman una cierta cantidad. Es un tipo de problema de la mochila, y tiene aplicaciones que exceden el ámbito específico de la circulación de dinero.
+La forma basica en la que podemos explicarlo es: Dado un sistema monetario S de longitud K y una cantidad de cambio C, devolver una solución (si existe) que nos indique el número de monedas de S equivalente a C, es decir, que nos muestre el cambio para C a partir de monedas de S.
 ##  Conclusiones
 En conclusión, creemos que este proyecto será de ayuda a la sociedad por que 
 aunque suena un poco simple abarca problemas cotidianos que afectan a 
