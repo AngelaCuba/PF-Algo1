@@ -12,7 +12,8 @@
  - Visual Studio Code versión 1.56
  - Compilador de C++: g++ 8.3.0
  - GitHub
-##Proceso de Instalación:
+ 
+##  Proceso de Instalación:
 - Instalar Visual Studio Cod
  -  Instalar GitHub
  - Crear una cuenta en GitHub
